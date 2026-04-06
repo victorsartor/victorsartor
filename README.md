@@ -23,7 +23,7 @@
 <p align="left">
 Sou um desenvolvedor do 🇧🇷 focado em criar interfaces web sólidas e elegantes.<br><br>
 - 🚀 Atualmente trabalhando como **Freelancer**, desenvolvendo Websites e Landing Pages de alta conversão.<br>
-- 🛠️ Especialista no "Trio de Ferro": **HTML5, CSS3 e JavaScript (Vanilla)**.<br>
+- 🛠️ Especialista no "Trio de Ferro": **HTML5, CSS3 e JavaScript**.<br>
 - 📚 Iniciando a jornada nos estudos de **Go (Golang)** para expandir meu stack.<br>
 - 🌎 **Inglês Avançado**: Documentação técnica e comunicação sem barreiras.<br>
 - 🎮 Nas horas vagas, você me encontra jogando algum **video game**.
