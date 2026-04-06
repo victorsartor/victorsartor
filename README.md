@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTcxaHN4aTlpbnBpbnA2N2N3ZTZ5d2JiNHF1dTE5NHo3M2R2Y2xzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVc6G5zbFwxo2YGXIP/giphy.gif" alt="Pixel Art Coding GIF" />
+  <img height="180" src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" alt="Pixel Art Coding GIF" />
 </div>
 
 ###
