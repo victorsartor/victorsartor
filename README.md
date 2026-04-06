@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img height="180" src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" alt="Pixel Art Coding GIF" />
 </div>
 
