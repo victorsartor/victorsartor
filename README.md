@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-Desenvolvedor front-end do 🇧🇷, focado em construir aplicações web completas — da interface ao banco de dados.<br><br>
+Desenvolvedor front-end do 🇧🇷, focado em construir aplicações web completas da interface ao banco de dados.<br><br>
 - 🚀 Sócio e desenvolvedor de um <b>CRM/ERP em produção</b>, construído com Next.js, TypeScript e Supabase.<br>
 - 💼 Desenvolvo <b>sites institucionais e landing pages</b> de alta conversão para clientes.<br>
 - 🤖 Integro <b>IA (API do Claude)</b> aos produtos que construo — e curso pós-graduação em <b>Inteligência Artificial e Machine Learning</b>.<br>
@@ -38,12 +38,12 @@ Desenvolvedor front-end do 🇧🇷, focado em construir aplicações web comple
 
 | Tecnologia | Como eu uso |
 | :--- | :--- |
-| **Next.js (App Router)** | Framework principal dos meus projetos — rotas, Server Components e renderização no servidor |
+| **Next.js (App Router)** | Framework principal dos meus projetos rotas, Server Components e renderização no servidor |
 | **TypeScript** | Tipagem estática em todo o código, do front à camada de dados |
 | **React** | Construção de componentes reutilizáveis e gerenciamento de estado |
 | **Supabase** | Postgres, autenticação, storage e políticas de acesso (RLS) |
 | **Tailwind CSS + shadcn/ui** | Estilização e design system consistente, com foco em responsividade |
-| **API do Claude** | Integração de IA em produtos web — automações e geração de conteúdo |
+| **API do Claude** | Integração de IA em produtos web automações e geração de conteúdo |
 | **Git / GitHub** | Versionamento e organização de projetos |
 | **Vercel / Cloudflare** | Deploy, hospedagem e camada de proteção das aplicações |
 
@@ -90,8 +90,8 @@ Desenvolvedor front-end do 🇧🇷, focado em construir aplicações web comple
 </div>
 
 <p align="left">
-<b>Go (Golang)</b> — para expandir para o back-end de alta performance.<br>
-<b>Python</b> — aplicado aos estudos de IA e Machine Learning da pós-graduação.
+<b>Go (Golang)</b> para expandir para o back-end de alta performance.<br>
+<b>Python</b> aplicado aos estudos de IA e Machine Learning da pós-graduação.
 </p>
 
 ###
