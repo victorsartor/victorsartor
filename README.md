@@ -24,7 +24,7 @@
 Desenvolvedor front-end do 🇧🇷, focado em construir aplicações web completas da interface ao banco de dados.<br><br>
 - 🚀 Sócio e desenvolvedor de um <b>CRM/ERP em produção</b>, construído com Next.js, TypeScript e Supabase.<br>
 - 💼 Desenvolvo <b>sites institucionais e landing pages</b> de alta conversão para clientes.<br>
-- 🤖 Integro <b>IA (API do Claude)</b> aos produtos que construo — e curso pós-graduação em <b>Inteligência Artificial e Machine Learning</b>.<br>
+- 🤖 Integro <b>IA (API do Claude)</b> aos produtos que construo e curso pós-graduação em <b>Inteligência Artificial e Machine Learning</b>.<br>
 - 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b>, com background de 3+ anos em suporte técnico N2.<br>
 - 🌎 <b>Inglês avançado</b>: documentação técnica e comunicação sem barreiras.<br>
 - 🎮 Nas horas vagas, você me encontra jogando algum <b>video game</b>.
